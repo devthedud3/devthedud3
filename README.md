@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Corey</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devthedud3" alt="devthedud3" /></a> </p>
-
 - 🔭 I’m currently working on **Lumin**
 
 - 🌱 I’m currently learning more about testing with **Selenium**
@@ -29,8 +27,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/devthedud3"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devthedud3" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devthedud3&" alt="devthedud3" /></p>
 
 
 <!--
