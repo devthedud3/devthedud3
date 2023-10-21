@@ -8,23 +8,9 @@ I'm a passionate software engineer with a love for coding, travel, music, and ar
   [Portfolio](http://www.coreycushnie.com) 
   [LinkedIn](http://www.linkedin.com/in/corey-cushnie).
   
-- 😄 Pronouns:
-  He/Him/His
-- 🌍 Loves to Travel
-- 🌱 I’m currently learning
-  🧪 Selenium
-  
-- 🎵 Loves Music
-  🕷️ Utopia
-  🐕‍🦺 For All The Dogs
-  
-- 💻 Tech Stack
-  🐍 Python
-  :javascript: JavaScript
-  ✔️ TypeScript
-  :atom: React
-  :next: NextJS
-  🎨 CSS || SASS
+- 😄 Pronouns are He/Him/His
+- 🎵 Loves Music 🐕‍🦺 For All The Dogs
+- 💻 Tech Stack 🐍 Python || ☕ JavaScript || ✔️ TypeScript || :atom: React || ⏭️ NextJS || 🎨 CSS & SASS || 📚 Storybook
   
 - ⚡ Fun fact:
   I'm a HUGE sports fan. I've bled purple, black, and gold (Baltimore Ravens) since I gained consciousness 
