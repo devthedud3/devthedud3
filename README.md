@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>Hi 👋, I'm Corey</h1>
   <p >
     Welcome to my GitHub. I'm a Software Engineer from New York. <br/>
@@ -6,89 +6,89 @@
     for a little over 5 years now. 😰 
   </p>
   
-  <br/>
-  
   <p>
     ✈️ Traveler <br/>
     🎵 Music Lover <br/>
     🎮 Video gamer <br/>
   </p>
 
-  <br/>
   
-  <p>🔭 I’m currently creating a tech startup (more details coming soon) 😎 <br/>
-  🌱 I’m currently testing with **Selenium**
+  <p>
+    🔭 I’ve been busy working on creating an app. (more details coming soon) 😎 <br/>
+    🌱 TypeScript, React, NextJS, Postgres, Firebase <br/>
   </p>
-  
   <br/>
   
-  ## 🧰 My Current Tech-Stack:
+  ## 🧰 Tech I've used frequently throughout my career:
 
-  #### Programming Languages:
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby Logo" width="30" height="30" />
+  ##### Programming Languages:
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby Logo" width="40" width="40" />
   
-  #### Frameworks
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS Logo" width="30" height="30" />
+  ##### Frameworks
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS Logo" width="40" width="40" />
+  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" width="40"/> </a>
   
-  #### Frontend Dev:
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass Logo" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap Logo" width="30" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS Logo" width="30" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel Logo" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack Logo" width="30" height="30" />
+  ##### Frontend Dev:
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass Logo" width="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap Logo" width="40" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS Logo" width="40" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel Logo" width="60" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack Logo" width="60" width="60" />
 
-  #### Backend Dev:
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Logo" width="30" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase Logo" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails Logo" width="30" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/>
+  ##### Backend Dev:
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Logo" width="60" width="60" />
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase Logo" width="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails Logo" width="40" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" width="40"/>
 
-  #### Mobile Dev:
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native Logo" width="30" height="30" />
+  ##### Mobile Dev:
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native Logo" width="40" width="40" />
 
-  #### AI/ML:
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow Logo" width="30" height="30" />
+  ##### AI/ML:
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow Logo" width="40" width="40" />
 
-  #### Databases:
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL Logo" width="30" height="30" />
+  ##### Databases:
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL Logo" width="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" width="40"/>
 
-  #### Data Visualization:
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js Logo" width="30" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="30" height="30"/>
+  ##### Data Visualization:
+  <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js Logo" width="40" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" width="40"/>
   
-  
-  #### Testing:
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium Logo" width="30" height="30" />
+  ##### Testing:
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium Logo" width="40" width="40" />
 
 
   <br/>
   <br/>
 
-  <p>Website: <a href="https://www.coreycushnie.com">coreycushnie.com</a></p>
+  <p>You can learn more about me on my website here: <a href="https://www.coreycushnie.com">coreycushnie.com</a></p>
 
-  <p align="center">
-    <a href="https://dev.to/devthedud3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devthedud3" height="30" width="40" /></a>
-    <a href="https://twitter.com/c_reyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="c_reyc" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/corey-cushnie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="corey-cushnie" height="30" width="40" /></a>
-    <a href="https://dribbble.com/ccushnie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ccushnie" height="30" width="40" /></a>
-    <a href="https://medium.com/@coreycushnie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coreycushnie" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/c_rey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="c_rey" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/corey_cushnie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="corey_cushnie" height="30" width="40" /></a>
-  </p>
+  <p>
+    <a href="https://dev.to/devthedud3" target="blank" style="margin-right: 20px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devthedud3" width="30" width="30" /></a>
+    <a href="https://twitter.com/c_reyc" target="blank" style="margin-right: 20px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="c_reyc" width="30" width="30" /></a>
+    <a href="https://linkedin.com/in/corey-cushnie" target="blank" style="margin-right: 20px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="corey-cushnie" width="30" width="30" /></a>
+    <a href="https://dribbble.com/ccushnie" target="blank" style="margin-right: 20px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ccushnie" width="30" width="30" /></a>
+    <a href="https://medium.com/@coreycushnie" target="blank" style="margin-right: 20px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coreycushnie" width="30" width="30" /></a>
+    <a href="https://www.youtube.com/c/c_rey" target="blank" style="margin-right: 20px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="c_rey" width="30" width="30" /></a>
+    <a href="https://www.hackerrank.com/corey_cushnie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="corey_cushnie" width="30" width="30" /></a>
+</p>
+
   
   <br/>
   <br/>
+  
   <p><a href="https://www.buymeacoffee.com/devthedud3"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devthedud3" /></a></p>
 </div>
 
