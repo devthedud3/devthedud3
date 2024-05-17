@@ -1,4 +1,4 @@
-Welcome to my github! 🚀
+Welcome to my GitHub! 🚀
 
 ## Introduction
 
@@ -38,16 +38,32 @@ Hey there! I'm Corey, a Product/Platform Engineer with a diverse skill set encom
 - Description: The front-end (client) build for a retail business made for small and/or independent designers.  
 - Technologies Used: React, Next.js, TypeScript, Tailwind CSS, RESTful, Postgres, Vercel, Figma.
 - Code: https://github.com/devthedud3/lxd
+<section style={{display: flex}}>
+  <img src="https://github.com/devthedud3/screenshsots/blob/main/lxd.png" width=300/>
+  <img src="https://github.com/devthedud3/screenshsots/blob/main/lxd1.png" width=300/>
+  <img src="https://github.com/devthedud3/screenshsots/blob/main/lxd2.png" width=300/>
+</section>
 
 ### [Spark Links](https://snack.expo.dev/@ccushnie/github.com-devthedud3-spark)
 - Description: Share various links with an audience, particularly when platforms like Instagram limit users to a single link in their profile or posts.
 - Technologies Used: React-Native, JavaScript, Expo, Styled Components.
 - Code: https://github.com/devthedud3/spark
 
+<section style={{display: flex, justify-content: center}}>
+  <img src="https://github.com/devthedud3/screenshsots/blob/main/spark.png" width=300/>
+  <img src="https://github.com/devthedud3/screenshsots/blob/main/spark1.png" width=300/>
+</section>
+
 ### [Raft](https://raft-nu.vercel.app/)
 - Description: A web platform for freelance engineers. Spend half the time finding software developers available in your timezone, for half the price.
 - Technologies Used: React, Next.js, TypeScript, Tailwind CSS, MUI, Node, npm, REST, Postgres, Vercel, Figma.
 - Code: https://github.com/devthedud3/raft
+
+<section style={{display: flex}}>
+  <img src="https://github.com/devthedud3/screenshsots/blob/main/raft0.png" width=300/>
+  <img src="https://github.com/devthedud3/screenshsots/blob/main/raft1.png" width=300/>
+  <img src="https://github.com/devthedud3/screenshsots/blob/main/raft2.png" width=300/>
+</section>
 
 ## Get in Touch
 
@@ -55,4 +71,6 @@ Hey there! I'm Corey, a Product/Platform Engineer with a diverse skill set encom
 - Email: [corey.cushnie@gmail.com](mailto:corey.cushnie@gmail.com)
 - Personal Website: https://coreycushnie.com
 
-Feel free to reach out if you'd like to collaborate, discuss opportunities, or just chat about life!
+Feel free to reach out if you'd like to collaborate, discuss opportunities, or chat about life!
+
+
