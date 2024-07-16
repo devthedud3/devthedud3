@@ -8,9 +8,12 @@ Hey there! I'm Corey, a Product/Platform Engineer with a diverse skill set encom
 
 ### Languages
 - Python
-- Ruby
 - TypeScript
 - JavaScript
+- Node
+- Express
+- Ruby
+- RoR
 - HTML5 
 - CSS3 (Sass, Less)
 
@@ -28,7 +31,7 @@ Hey there! I'm Corey, a Product/Platform Engineer with a diverse skill set encom
 - Git / GitHub
 - Responsive Design
 - Cross-browser Compatibility
-- RESTful APIs
+- REST APIs
 - Agile Methodologies (Scrum, Kanban)
 
 ## Projects
