@@ -2,7 +2,7 @@ Welcome to my GitHub! 🚀
 
 ## Introduction
 
-Hey there! I'm Corey, a Product/Platform Engineer with a diverse skill set encompassing Web Development, Data Processing, and Application Development. With over 5 years of hands-on experience, I excel in building software and analyzing data to drive business success. I specialize in developing models and reactive websites with a strong emphasis on UX/UI design, utilizing React and Node to deliver cutting-edge solutions. Committed to writing clean and efficient code, I strive to create user-friendly applications that meet the highest standards. This repository is a showcase of my work, skills, and projects.
+Hey there! I'm Corey, a Product/Platform Engineer with a diverse skill set encompassing Web Development, Data Processing, and Application Development. With over 5 years of hands-on experience, I excel in building software and analyzing data to drive business success. I specialize in developing models and reactive websites, emphasizing UX/UI design, while utilizing React and Node, or RoR, to deliver cutting-edge solutions. Committed to writing clean and efficient code, I strive to create user-friendly applications that meet the highest standards. This repository is a showcase of my work, skills, and projects.
 
 ## Skills
 
@@ -17,7 +17,6 @@ Hey there! I'm Corey, a Product/Platform Engineer with a diverse skill set encom
 ### Frameworks & Libraries
 - React
 - React-Native
-- Angular
 - Redux
 - GraphQL
 
@@ -34,36 +33,30 @@ Hey there! I'm Corey, a Product/Platform Engineer with a diverse skill set encom
 
 ## Projects
 
-### [LXD](https://lxd-xi.vercel.app/)
-- Description: The front-end (client) build for a retail business made for small and/or independent designers.  
-- Technologies Used: React, Next.js, TypeScript, Tailwind CSS, RESTful, Postgres, Vercel, Figma.
-- Code: https://github.com/devthedud3/lxd
-<section style={{display: flex}}>
-  <img src="https://github.com/devthedud3/screenshsots/blob/main/lxd.png" width=300/>
-  <img src="https://github.com/devthedud3/screenshsots/blob/main/lxd1.png" width=300/>
-  <img src="https://github.com/devthedud3/screenshsots/blob/main/lxd2.png" width=300/>
-</section>
+### Glossary - [Demo](https://the-gloss.vercel.app/)
+- Description: A dictionary built for developers. It reads the .txt file located in the lib folder, then uses Axios with Cheerios to query and scrape 'dictionary.com' for definitions.
+- Technologies Used: React, Next.js, TypeScript, Tailwind CSS, Axios, Cheerios, Vercel.
+- Code: https://github.com/devthedud3/the-short
 
-### [Spark Links](https://snack.expo.dev/@ccushnie/github.com-devthedud3-spark)
+### The Short - [Demo](https://zs1.vercel.app/)
+- Description: A simple URL shortener / QRC generator.  
+- Technologies Used: React, Next.js, TypeScript, Tailwind CSS, Postgres, Vercel, Figma.
+- Code: https://github.com/devthedud3/the-short
+
+### LXD - [Demo](https://lxd-xi.vercel.app/)
+- Description: The front-end (client) build for a retail business made for small and/or independent designers.  
+- Technologies Used: React, Next.js, TypeScript, Tailwind CSS, REST, Postgres, Vercel, Figma.
+- Code: https://github.com/devthedud3/lxd
+
+### Spark [Demo](https://snack.expo.dev/@ccushnie/github.com-devthedud3-spark)
 - Description: Share various links with an audience, particularly when platforms like Instagram limit users to a single link in their profile or posts.
 - Technologies Used: React-Native, JavaScript, Expo, Styled Components.
 - Code: https://github.com/devthedud3/spark
 
-<section style={{display: flex, justify-content: center}}>
-  <img src="https://github.com/devthedud3/screenshsots/blob/main/spark.png" width=300/>
-  <img src="https://github.com/devthedud3/screenshsots/blob/main/spark1.png" width=300/>
-</section>
-
-### [Raft](https://raft-nu.vercel.app/)
+### Raft [Demo](https://raft-nu.vercel.app/)
 - Description: A web platform for freelance engineers. Spend half the time finding software developers available in your timezone, for half the price.
 - Technologies Used: React, Next.js, TypeScript, Tailwind CSS, MUI, Node, npm, REST, Postgres, Vercel, Figma.
 - Code: https://github.com/devthedud3/raft
-
-<section style={{display: flex}}>
-  <img src="https://github.com/devthedud3/screenshsots/blob/main/raft0.png" width=300/>
-  <img src="https://github.com/devthedud3/screenshsots/blob/main/raft1.png" width=300/>
-  <img src="https://github.com/devthedud3/screenshsots/blob/main/raft2.png" width=300/>
-</section>
 
 ## Get in Touch
 
