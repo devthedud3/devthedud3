@@ -39,12 +39,12 @@ Hey there! I'm Corey, a Product/Platform Engineer with a diverse skill set encom
 ### Glossary - [demo](https://the-gloss.vercel.app/)
 - Description: A dictionary built for developers. It reads the txt file located in the lib folder, then uses Axios with Cheerios to query and scrape 'dictionary.com' for definitions.
 - Technologies Used: React, Next.js, TypeScript, Tailwind CSS, Axios, Cheerios, Vercel.
-- Code: https://github.com/devthedud3/the-short
+- Code: [https://github.com/devthedud3/the-short-one](https://github.com/devthedud3/online-dictionary)
 
 ### The Short - [demo](https://zs1.vercel.app/)
 - Description: A simple URL shortener / QR code generator.  
 - Technologies Used: React, Next.js, TypeScript, Tailwind CSS, Postgres, Vercel, Figma.
-- Code: https://github.com/devthedud3/the-short
+- Code: https://github.com/devthedud3/the-short-one
 
 ### LXD - [demo](https://lxd-xi.vercel.app/)
 - Description: The front-end (client) build for a retail business made for small and/or independent designers.  
