@@ -7,32 +7,13 @@ Hey there! I'm Corey, a Product/Platform Engineer with a diverse skill set encom
 ## Skills
 
 ### Languages
-- Python
-- TypeScript
-- JavaScript
-- Node
-- Express
-- Ruby
-- RoR
-- HTML5 
-- CSS3 (Sass, Less)
+Python, TypeScript, JavaScript, Node, Express, Ruby, Ruby on Rails, HTML5, CSS3 (Sass, Less)
 
 ### Frameworks & Libraries
-- React
-- React-Native
-- Redux
-- GraphQL
+React, React-Native, Redux, GraphQL
 
 ### Tools & Technologies
-- Next.js
-- Tailwind CSS
-- Storybook
-- npm / Yarn
-- Git / GitHub
-- Responsive Design
-- Cross-browser Compatibility
-- REST APIs
-- Agile Methodologies (Scrum, Kanban)
+Next.js, Tailwind CSS, Storybook, npm / Yarn, Git / GitHub, Responsive Design, Cross-browser Compatibility, REST APIs, Agile Methodologies (Scrum, Kanban)
 
 ## Projects
 
